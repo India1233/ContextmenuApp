@@ -15,6 +15,8 @@
 		9A4D2C1C23A0CFE9004F3918 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A4D2C1A23A0CFE9004F3918 /* LaunchScreen.storyboard */; };
 		9A4D2C2723A0CFE9004F3918 /* ContextmenuAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4D2C2623A0CFE9004F3918 /* ContextmenuAppTests.swift */; };
 		9A4D2C3223A0CFE9004F3918 /* ContextmenuAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4D2C3123A0CFE9004F3918 /* ContextmenuAppUITests.swift */; };
+		9A4D2C4023A0D189004F3918 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4D2C3F23A0D189004F3918 /* Data.swift */; };
+		9A4D2C4223A0D457004F3918 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4D2C4123A0D457004F3918 /* CollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		9A4D2C2D23A0CFE9004F3918 /* ContextmenuAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ContextmenuAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A4D2C3123A0CFE9004F3918 /* ContextmenuAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextmenuAppUITests.swift; sourceTree = "<group>"; };
 		9A4D2C3323A0CFE9004F3918 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A4D2C3F23A0D189004F3918 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		9A4D2C4123A0D457004F3918 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				9A4D2C0F23A0CFE8004F3918 /* AppDelegate.swift */,
 				9A4D2C1123A0CFE8004F3918 /* SceneDelegate.swift */,
 				9A4D2C1323A0CFE8004F3918 /* ViewController.swift */,
+				9A4D2C4123A0D457004F3918 /* CollectionViewController.swift */,
+				9A4D2C3F23A0D189004F3918 /* Data.swift */,
 				9A4D2C1523A0CFE8004F3918 /* Main.storyboard */,
 				9A4D2C1823A0CFE9004F3918 /* Assets.xcassets */,
 				9A4D2C1A23A0CFE9004F3918 /* LaunchScreen.storyboard */,
@@ -262,6 +268,8 @@
 				9A4D2C1423A0CFE8004F3918 /* ViewController.swift in Sources */,
 				9A4D2C1023A0CFE8004F3918 /* AppDelegate.swift in Sources */,
 				9A4D2C1223A0CFE8004F3918 /* SceneDelegate.swift in Sources */,
+				9A4D2C4023A0D189004F3918 /* Data.swift in Sources */,
+				9A4D2C4223A0D457004F3918 /* CollectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
